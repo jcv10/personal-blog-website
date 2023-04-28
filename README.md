@@ -1,2 +1,2 @@
 # personal-blog-website
-Udacity front end developer personal blog website project
+Udacity personal blog website project for the front end developer nanodegree program
